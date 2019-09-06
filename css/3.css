@@ -1,0 +1,42 @@
+body {
+    margin: 0 auto;
+    background-color: pink;
+}
+div nav ul li {
+    list-style: none;
+    border: 30px;
+    margin: 30px auto;
+}
+
+/* div nav .zuo {
+    float: left;
+}
+
+div nav .you {
+    float: right;
+} */
+div nav ul li a {
+    text-decoration:none;
+}
+
+div nav ul li a:hover {
+    background-color: beige;
+}
+
+.main .lside {
+    background-color: aqua;
+    float: left;
+    width: 40%;
+    height: 400px;
+}
+
+.main .rside {
+    background-color: aquamarine;
+    float: left;
+    width: 60%;
+    height: 400px;
+}
+
+.main .rside a img {
+    float: right;
+}
